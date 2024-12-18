@@ -1,6 +1,6 @@
 # Parent Repository
 
-This repository contains two sub-projects:
+This repository contains four sub-projects:
 
 1. **[HomeApp](https://github.com/asifshapnil/microfrontend-home)**
    - Description: HomeApp.
