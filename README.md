@@ -12,11 +12,11 @@ This repository contains two sub-projects:
      
 2. **[AuthApp]([https://github.com/asifshapnil/microfrontend-header](https://github.com/asifshapnil/microfrontend-auth))**
    - Description: AuthApp.
-   - Link to GitHub: [https://github.com/asifshapnil/microfrontend-auth)
+   - Link to GitHub: [AuthApp Github](https://github.com/asifshapnil/microfrontend-auth)
 
 2. **[ProductApp](https://github.com/asifshapnil/microfrontend-product)**
    - Description: ProductApp.
-   - Link to GitHub: [https://github.com/asifshapnil/microfrontend-product)
+   - Link to GitHub: [ProductApp Github](https://github.com/asifshapnil/microfrontend-product)
 
 **Microfrontend Architecture**
 there are four separate applications
