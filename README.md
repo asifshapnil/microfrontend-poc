@@ -72,6 +72,9 @@ All projects are deployed to **Vercel** and utilize automatic Continuous Integra
 
 The live version of the **HomeApp** is accessible at:  
 **[https://microfrontend-home-two.vercel.app](https://microfrontend-home-two.vercel.app)**
+**Credentials**
+username: admin
+password: admin
 
 ### Summary of URL Configuration:
 - In production (`master` branch):
